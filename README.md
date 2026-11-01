@@ -21,11 +21,13 @@ I turn business questions into data insights and build practical tools with data
 
 | Project | What it does |
 | --- | --- |
+| [Fan & Ticketing BI](https://github.com/xkong585/fan-ticketing-bi) | Synthetic sports BI for 20,000 fans, 120 events and 119,998 accepted orders; SQL/pandas reconciliation, five RFM segments with 90-day validation, measured query optimization, Tableau and interactive reporting. |
+| [Survey & Sponsorship Insights](https://github.com/xkong585/survey-sponsorship-insights) | Synthetic survey of 12,000 invitees / 5,076 respondents; weighted NPS, a randomized recall experiment (+9.54 pp; 95% CI 6.94–12.12), and 108 contract lines reconciled into 36 sponsor recaps. Tableau and reproducible evidence. |
 | [NHANES Adult Health](https://github.com/xkong585/nhanes-adult-health) | R/Python survey-weighted HbA1c analysis in 4,940 adults; PSU-grouped ML benchmarks reduced weighted MAE from 0.546 to 0.487. Reproducible reports and validation evidence. |
 | [CMS Synthetic Claims](https://github.com/xkong585/cms-synthetic-claims) | Synthetic Medicare claims ETL for 116,352 beneficiaries; next-year claim benchmark on 73,757 eligible people, with test AP 0.271 versus a 0.175 baseline. Synthetic data demonstration only. |
 | [Coffee Atlas](https://github.com/xkong585/Coffee_Atlas) | Interactive coffee discovery and personalized AI recommendations. [Live demo](https://coffee-three-phi.vercel.app/) |
 | [Traversaal AI Explainer](https://github.com/xkong585/Traversaal.ai_Capstone) | Turns a topic into a narrated explainer video with structured scripts and synchronized animations. |
-| [Airbnb Market Intelligence](https://github.com/xkong585/airbnb-market-intelligence-pipeline) | Multi-city market reporting with Spark, Airflow, Snowflake, geospatial analysis, and Tableau. |
+| [Airbnb Market Intelligence](https://github.com/xkong585/airbnb-market-intelligence-pipeline) | Multi-city market reporting with Spark, Airflow, Snowflake and Tableau; audited SF snapshots plus four result-equivalent local SQL benchmarks (14,722 listings, 185-row mart). |
 | [NYC Citi Bike Rebalancing](https://github.com/xkong585/NYC-citibike-Intelligent-Rebalancing) | Bike-share demand analysis, forecasting baselines, and station-level visualizations. |
 | [CrashSight SF](https://github.com/xkong585/CrashSight-SF) | San Francisco crash analysis, severity modeling, and illustrative resource-location scenarios. |
 
