@@ -21,6 +21,8 @@ I turn business questions into data insights and build practical tools with data
 
 | Project | What it does |
 | --- | --- |
+| [Music Discovery & Repeat Listening](https://github.com/xkong585/music-discovery-product-analysis) | 19.15M real Last.fm source records; 932-user / 661,390-event first-artist cohort, definition sensitivity and product decision memo. [Interactive evidence](https://xkong585.github.io/music-discovery-product-analysis/). |
+| [Music Insights Copilot](https://github.com/xkong585/music-insights-copilot) | Local Qwen3, validated tool plans and source-linked SQL answers; 30-task benchmark, 76.7% exact tool/filter accuracy, failures retained. [Recorded-run showcase](https://xkong585.github.io/music-insights-copilot/); live inference runs locally. |
 | [NCAA Attendance Observatory](https://github.com/xkong585/fan-ticketing-bi) | Official NCAA data: 720 Division I team records and 10,917 home games; source-scope reconciliation, forecast baseline comparison, Tableau and an [interactive dashboard](https://xkong585.github.io/fan-ticketing-bi/). |
 | [Sports Audience & Sponsorship Research](https://github.com/xkong585/survey-sponsorship-insights) | Official Census/NEA survey: 6,284 valid answers, 160 replicate weights, household-heldout ML (AP 0.482 vs 0.276 baseline), plus a separate company sponsorship recap. [Live dashboard](https://xkong585.github.io/survey-sponsorship-insights/). |
 | [NHANES Adult Health](https://github.com/xkong585/nhanes-adult-health) | R/Python survey-weighted HbA1c analysis in 4,940 adults; PSU-grouped ML benchmarks reduced weighted MAE from 0.546 to 0.487. Reproducible reports and validation evidence. |
