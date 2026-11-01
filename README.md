@@ -21,8 +21,8 @@ I turn business questions into data insights and build practical tools with data
 
 | Project | What it does |
 | --- | --- |
-| [Fan & Ticketing BI](https://github.com/xkong585/fan-ticketing-bi) | Synthetic sports BI for 20,000 fans, 120 events and 119,998 accepted orders; SQL/pandas reconciliation, five RFM segments with 90-day validation, measured query optimization, Tableau and interactive reporting. |
-| [Survey & Sponsorship Insights](https://github.com/xkong585/survey-sponsorship-insights) | Synthetic survey of 12,000 invitees / 5,076 respondents; weighted NPS, a randomized recall experiment (+9.54 pp; 95% CI 6.94–12.12), and 108 contract lines reconciled into 36 sponsor recaps. Tableau and reproducible evidence. |
+| [NCAA Attendance Observatory](https://github.com/xkong585/fan-ticketing-bi) | Official NCAA data: 720 Division I team records and 10,917 home games; source-scope reconciliation, forecast baseline comparison, Tableau and an [interactive dashboard](https://xkong585.github.io/fan-ticketing-bi/). |
+| [Sports Audience & Sponsorship Research](https://github.com/xkong585/survey-sponsorship-insights) | Official Census/NEA survey: 6,284 valid answers, 160 replicate weights, household-heldout ML (AP 0.482 vs 0.276 baseline), plus a separate company sponsorship recap. [Live dashboard](https://xkong585.github.io/survey-sponsorship-insights/). |
 | [NHANES Adult Health](https://github.com/xkong585/nhanes-adult-health) | R/Python survey-weighted HbA1c analysis in 4,940 adults; PSU-grouped ML benchmarks reduced weighted MAE from 0.546 to 0.487. Reproducible reports and validation evidence. |
 | [CMS Synthetic Claims](https://github.com/xkong585/cms-synthetic-claims) | Synthetic Medicare claims ETL for 116,352 beneficiaries; next-year claim benchmark on 73,757 eligible people, with test AP 0.271 versus a 0.175 baseline. Synthetic data demonstration only. |
 | [Coffee Atlas](https://github.com/xkong585/Coffee_Atlas) | Interactive coffee discovery and personalized AI recommendations. [Live demo](https://coffee-three-phi.vercel.app/) |
