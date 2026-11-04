@@ -21,6 +21,7 @@ I turn business questions into data insights and build practical tools with data
 
 | Project | What it does |
 | --- | --- |
+| [Merch Review · The Weekly Cut](https://github.com/xkong585/merch-review) | Evidence-led fashion merchandising workbench with audited Visuelle 2.0 data, relative-week replay, traceable human decisions and 26 tests. Original manga-editorial interface; public demo is synthetic and real data stays local. [Interface preview](https://github.com/xkong585/merch-review/blob/main/docs/workbench.png). |
 | [Music Discovery & Repeat Listening](https://github.com/xkong585/music-discovery-product-analysis) | 19.15M real Last.fm source records; 932-user / 661,390-event first-artist cohort, definition sensitivity and product decision memo. [Interactive evidence](https://xkong585.github.io/music-discovery-product-analysis/). |
 | [Music Insights Copilot](https://github.com/xkong585/music-insights-copilot) | Local Qwen3, validated tool plans and source-linked SQL answers; 30-task benchmark, 76.7% exact tool/filter accuracy, failures retained. [Recorded-run showcase](https://xkong585.github.io/music-insights-copilot/); live inference runs locally. |
 | [NCAA Attendance Observatory](https://github.com/xkong585/fan-ticketing-bi) | Official NCAA data: 720 Division I team records and 10,917 home games; source-scope reconciliation, forecast baseline comparison, Tableau and an [interactive dashboard](https://xkong585.github.io/fan-ticketing-bi/). |
